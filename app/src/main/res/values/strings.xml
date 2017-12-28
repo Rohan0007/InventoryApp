@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="sale_button">Sale</string>
+    <string name="new_product">Add new item</string>
+    <string name="supplier_email">Supplier E-mail Address</string>
+    <string name="supplier_phone">Supplier Phone</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="product_name">Product Name</string>
+    <string name="action_save">Save item</string>
+    <string name="editor_activity_title_new_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="order_item">Order more</string>
+    <string name="delete_item">Delete item</string>
+    <string name="delete_all_data">Delete all data</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">You can place an order for this item by phone or e-mail</string>
+    <string name="delete_message">Confirm delete?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_hint">Start adding items to your inventory</string>
+    <string name="add_dummy_data">Add Dummy Data</string>
+    <string name="image">Image</string>
+    <string name="unsaved_changes">There are some unsaved changes on this page. Do you want to continue?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+</resources>
